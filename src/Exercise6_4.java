@@ -5,7 +5,7 @@ public class Exercise6_4 {
         s.name = "홍길동";
         s.ban = 1;
         s.no = 1;
-        //
+        // 진짜 이상하네 민준님 손타네
         s.kor = 100;
         s.eng = 60;
         s.math = 76;
