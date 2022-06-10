@@ -1,4 +1,4 @@
-public class Exercise6_4 {
+/*public class Exercise6_4 {
 
     public static void main(String args[]) {
         Student s = new Student();
@@ -29,4 +29,4 @@ class Student {
         float avg = (float) getTotal()/3;
         return (float)(Math.round(avg*10)/10.0);
     }
-}
+}*/
